@@ -1,8 +1,3 @@
-Tusuke Takahashi - Web/Software Developer
-================================================
-
-# Yusuke Takahashi
-
 - Email: uskt83@gmail.com
 - GitHub: [github.com/usk83](https://github.com/usk83)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/%E4%BD%91%E5%85%81-%E9%AB%98%E6%A9%8B-066183bb/)
