@@ -1,8 +1,3 @@
-- Email: uskt83@gmail.com
-- GitHub: [github.com/usk83](https://github.com/usk83)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/%E4%BD%91%E5%85%81-%E9%AB%98%E6%A9%8B-066183bb/)
-- LeetCode: [leetcode.com/usk83/](https://leetcode.com/usk83/)
-
 <h2>ABOUT ME</h2>
 <p>
   A web/software developer based in Vancouver, Canada.<br>
