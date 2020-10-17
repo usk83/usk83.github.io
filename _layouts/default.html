@@ -20,8 +20,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -33,7 +31,7 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
 
-      <a href="mailto:uskt83@gmail.com" "email">Email</a>
+      <a href="mailto:uskt83@gmail.com" class="btn">Email</a>
       <a href="https://github.com/usk83" class="btn">GitHub</a>
       <a href="https://www.linkedin.com/in/%E4%BD%91%E5%85%81-%E9%AB%98%E6%A9%8B-066183bb/" class="btn">LinkedIn</a>
       <a href="https://leetcode.com/usk83/" class="btn">LeetCode</a>
